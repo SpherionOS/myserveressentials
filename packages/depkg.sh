@@ -1,15 +1,6 @@
-#! /bin/bash
+#!/bin/bash
 
-apt install sudo
+sudo apt update
+sudo apt install -y openssh-client vim git curl
 
-sudo apt install openssh-client
-
-sudo apt install vim
-
-sudo apt install git
-
-sudo apt install curl
-
-sudo apt install vim
-
-echo "System Essential Install Complete: Awaiting Input"
+echo "System essential installation complete."
