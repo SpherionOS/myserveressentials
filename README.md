@@ -1,16 +1,16 @@
-Linux Server Essentials
-This repository contains a collection of essential scripts for setting up and managing a Linux server. The content is designed to help both novice and experienced administrators in their daily tasks, covering topics such as package management, cryptocurrency mining, and administrative tools.
+My Server Essentials
+This repository contains a collection of scripts and tools for setting up and managing a Linux server. The content is designed to help administrators streamline their tasks and automate routine processes.
 
 Contents
-The repository contains the following files:
+The repository includes the following items:
 
-concheck.sh: A script for checking SSH connections to a Linux server.
+concheck.sh: A script for checking SSH connections to the server.
 
-depkg.sh: A script for downloading and installing essential Linux tools, such as curl.
+depkg.sh: A script for downloading and installing essential Linux tools, such as curl, wget, and htop.
 
 monerom.sh: A script for building a cryptocurrency miner for Monero using XMRig.
 
-openvpninstall.sh: A script for installing OpenVPN on a Linux server.
+openvpninstall.sh: A script for installing OpenVPN on the server.
 
 xmrigbuild.sh: A script for building XMRig, a cryptocurrency miner for Monero.
 
@@ -24,6 +24,10 @@ We welcome contributions to this repository from the community. If you have any 
 
 License
 This repository is licensed under the MIT license.
+
+
+
+
 
 
 
