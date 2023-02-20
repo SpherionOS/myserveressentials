@@ -1,3 +1,5 @@
+ATTENTION: REPOSITORY IS DEPRECATED AND MAY NO LONGER HOLD VALID OR UP TO DATE INFORMATION. UPDATED REPOSITORY CAN BE FOUND AT https://github.com/SpherionOS/ShellAutomation
+
 My Server Essentials
 This repository contains a collection of scripts and tools for setting up and managing a Linux server. The content is designed to help administrators streamline their tasks and automate routine processes.
 
